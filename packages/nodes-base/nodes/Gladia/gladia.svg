@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none">
+  <rect width="256" height="256" rx="48" fill="#0D0D0D"/>
+  <g transform="translate(32 32)" fill="white">
+    <!-- Top-left arm (forked) -->
+    <path d="M96 56V32h-8v24L64 32H48l32 36c4.5 5 10.5 8 17 8h2V56z"/>
+    <!-- Top-right arm (forked) -->
+    <path d="M104 56V32h8v24l24-24h16l-32 36c-4.5 5-10.5 8-17 8h-2V56z"/>
+    <!-- Bottom-left arm (forked) -->
+    <path d="M96 136v24h-8v-24l-24 24H48l32-36c4.5-5 10.5-8 17-8h2v24z"/>
+    <!-- Bottom-right arm (forked) -->
+    <path d="M104 136v24h8v-24l24 24h16l-32-36c-4.5-5-10.5-8-17-8h-2v24z"/>
+    <!-- Left bar -->
+    <path d="M56 88H32v16h24l-24 24v16l36-32c5-4.5 8-10.5 8-17v-4c0-6.5-3-12.5-8-17L32 42v16l24 24H32v6h24z"/>
+    <!-- Right bar -->
+    <path d="M136 88h24v16h-24l24 24v16l-36-32c-5-4.5-8-10.5-8-17v-4c0-6.5 3-12.5 8-17l36-32v16l-24 24h24v6h-24z"/>
+  </g>
+</svg>
